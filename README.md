@@ -1,7 +1,7 @@
 # pay
 集成支付宝、微信常用的支付方式
 
-####使用说明
+使用说明
  > 1、核心文件就是Payment文件夹，其中AliPay.php、WxPay.php是封装的主要文件
  
  > 2、支付发起入口是PayLogic.php
